@@ -1,5 +1,5 @@
 # Site settings
-title:       "Suyog Jadhav: Undergraduate Researcher at IIT (ISM), Dhanbad"
+title:       "Suyog Jadhav: Machine Learning Researcher at Uit Norway"
 email:       me@suyogjadhav.com
 author:      "Suyog Jadhav"
 
@@ -97,7 +97,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Thanks for contacting. I try to reply as soon as possible.'
   og_locale: 'en_US'
 
 # Build settings
